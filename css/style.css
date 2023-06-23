@@ -14,11 +14,11 @@ html {
     transform: scale(1.2);
     transition: all 0.3s ease-in-out;
 }
-.c-item {
+.carousel .carousel-inner .c-item {
     /* height: 480px; */
     height: 100vh;
 }
-.c-img {
+.carousel .carousel-inner .c-item .c-img {
     height: 100%;
     object-fit: cover;
     filter: brightness(0.4);
