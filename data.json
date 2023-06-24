@@ -1,0 +1,101 @@
+{
+    "tshirt": [
+        {
+            "foto": "images/produk/tshirt-lut-black.png",
+            "nama": "T-Shirt - Leben und Tod",
+            "harga": "Rp. 119.000",
+            "link": "https://www.instagram.com/p/CSB08a6FQSp/"
+        },
+        {
+            "foto": "images/produk/tshirt-dreamOn-white.png",
+            "nama": "T-Shirt - Dream On",
+            "harga": "Rp. 119.000",
+            "link": "https://www.instagram.com/p/CSB12Fjl85l/"
+        },
+        {
+            "foto": "images/produk/tshirt-rimbun-black.png",
+            "nama": "T-Shirt - Rimbun",
+            "harga": "Rp. 119.000",
+            "link": "https://www.instagram.com/p/CSZ-z35hoKy/"
+        },
+        {
+            "foto": "images/produk/tshirt-coney-bw.png",
+            "nama": "T-Shirt - Coney",
+            "harga": "Rp. 119.000",
+            "link": "https://www.instagram.com/p/CY52-L8LFFZ/"
+        },
+        {
+            "foto": "images/produk/tshirt-grow-magenta.png",
+            "nama": "T-Shirt - Grow",
+            "harga": "Rp. 119.000",
+            "link": "https://www.instagram.com/p/CcgCOZWPcWb/"
+        },
+        {
+            "foto": "images/produk/tshirt-hope-white.png",
+            "nama": "T-Shirt - Hope",
+            "harga": "Rp. 119.000",
+            "link": "https://www.instagram.com/p/CdHLgeDP4Bg/"
+        },
+        {
+            "foto": "images/produk/tshirt-surv-black.png",
+            "nama": "T-Shirt - Survive",
+            "harga": "Rp. 129.000",
+            "link": "https://www.instagram.com/p/ChBbDVnpx-h/"
+        },
+        {
+            "foto": "images/produk/tshirt-og-white.png",
+            "nama": "T-Shirt - OG Logo",
+            "harga": "Rp. 129.000",
+            "link": "https://www.instagram.com/p/Cn8OAGqvtWJ/"
+        },
+        {
+            "foto": "images/produk/tshirt-roots-blue.png",
+            "nama": "T-Shirt - Roots",
+            "harga": "Rp. 129.000",
+            "link": "https://www.instagram.com/p/Cn8kXu3LMN4/"
+        },
+        {
+            "foto": "images/produk/tshirt-up-green.png",
+            "nama": "T-Shirt - Up Green",
+            "harga": "Rp. 129.000",
+            "link": "https://www.instagram.com/p/Cn8k82Hromq/"
+        },
+        {
+            "foto": "images/produk/tshirt-up-black.png",
+            "nama": "T-Shirt - Up Black",
+            "harga": "Rp. 129.000",
+            "link": "https://www.instagram.com/p/Cn8mDgyLJO_/"
+        }
+    ],
+
+    "longsleeve": [
+        {
+            "foto": "images/produk/long-sleeve-mission-black.png",
+            "nama": "Long Sleeve - Mission",
+            "harga": "Rp. 134.000",
+            "link": "https://www.instagram.com/p/CWMBU_PBvLv/"
+        },
+        {
+            "foto": "images/produk/long-sleeve-je-yellow.png",
+            "nama": "Long Sleeve - Je",
+            "harga": "Rp. 139.000",
+            "link": "https://www.instagram.com/p/CiKedNTriqI/"
+        }
+    ],
+    
+    "warmclothes": [
+        {
+            "foto": "images/produk/Hoodie_Grow_s.png",
+            "nama": "Hoodie - Grow",
+            "harga": "Rp. 229.000",
+            "link": "https://www.instagram.com/p/Cn8QPleJXGY/"
+        },
+        {
+            "foto": "images/produk/crewneck.png",
+            "nama": "Crewneck - Throw",
+            "harga": "Rp. 199.000",
+            "link": "https://www.instagram.com/p/Cn8SM1kJ4Jn/"
+        }
+    ]
+    
+}
